@@ -1,4 +1,4 @@
-# e
+# OS
 
 A fundamental constant in continuous growth.
 
@@ -10,7 +10,6 @@ A fundamental constant in continuous growth.
 🔭 Exploring: {your_interests}
 💡 Building: {your_projects}
 - 📫 olasilvaolunleke@gmail.com
-- Ai\Ml engineer
 - software engineer
 
 <!---
