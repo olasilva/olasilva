@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @olasilva
-- 👀 I’m interested in java enterprise
-- 🌱 I’m currently learning Java programming language
-- 💞️ I’m looking to collaborate on building soft codes
-- 📫 How to reach me through Gmail
+# e
+
+A fundamental constant in continuous growth.
+
+`e` represents natural progression, compound interest in knowledge, and the base of infinite possibilities.
+
+---
+
+📈 Currently growing at rate `de/dt = e`
+🔭 Exploring: {your_interests}
+💡 Building: {your_projects}
+- 📫 olasilvaolunleke@gmail.com
 - Ai\Ml engineer
 - software engineer
 
