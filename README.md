@@ -7,8 +7,8 @@ A fundamental constant in continuous growth.
 ---
 
 📈 Currently growing at rate `de/dt = e`
-🔭 Exploring: {your_interests}
-💡 Building: {your_projects}
+🔭 Exploring: software engineering
+💡 Building: Building software to client satisfaction
 - 📫 olasilvaolunleke@gmail.com
 - software engineer
 
